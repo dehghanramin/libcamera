@@ -11,7 +11,6 @@
 #include <limits>
 #include <memory>
 #include <stdint.h>
-#include <stddef.h>
 #include <vector>
 
 #include <libcamera/base/class.h>
